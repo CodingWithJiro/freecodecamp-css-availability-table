@@ -1,4 +1,4 @@
-# 💻 Availability Table
+# Availability Table
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
@@ -16,15 +16,15 @@
 ![Learning Path](https://img.shields.io/badge/learning%20path-month%202-blue)
 ![Views](https://visitor-badge.laobi.icu/badge?page_id=CodingWithJiro.freecodecamp-css-availability-table&left_text=repo%20views)
 
-## ℹ️ A Simple Availability Table Web Page
+## A Simple Availability Table Web Page
 
 ![Screenshot of the project](./screenshot.png)
 
-This project is a responsive availability table that visually represents time slot data using colored cells. The gradient legend provides a key to quickly interpret the availability levels from 0 (least available) to 5 (most available). It was built entirely with HTML and CSS as part of the [**freeCodeCamp.org**](https://www.freecodecamp.org/learn/full-stack-developer/) CSS course.
+This project is a responsive availability table that visually represents time slot data using colored cells. The gradient legend provides a key to quickly interpret the availability levels from 0 (least available) to 5 (most available). It was built entirely with HTML and CSS as part of the **[freeCodeCamp.org](https://www.freecodecamp.org/learn/full-stack-developer/)** CSS course.
 
 ---
 
-## 🔍 Overview
+## Overview
 
 This project features a structured HTML table layout enhanced with visual indicators of availability throughout the week. Each time slot is color-coded based on availability values, and rows alternate between solid and dashed borders for clarity.
 
@@ -32,7 +32,7 @@ A fully custom CSS legend using Flexbox and a gradient bar enhances the user exp
 
 ---
 
-## ✨ Features
+## Features
 
 - Responsive table layout with clear weekday and hourly time slots
 - Availability values styled using custom CSS classes and semantic colors
@@ -44,7 +44,7 @@ A fully custom CSS legend using Flexbox and a gradient bar enhances the user exp
 
 ---
 
-## 🧠 What I Learned
+## What I Learned
 
 - How to structure complex table-based layouts using semantic HTML
 - Styling tables with both solid and dashed borders
@@ -56,7 +56,7 @@ A fully custom CSS legend using Flexbox and a gradient bar enhances the user exp
 
 ---
 
-## 🛠️ Tech Used
+## Tech Used
 
 - HTML5
 - CSS3
@@ -66,23 +66,23 @@ A fully custom CSS legend using Flexbox and a gradient bar enhances the user exp
 
 ---
 
-## 🚀 How to Run
+## How to Run
 
 1. Clone the repository
 2. Open `index.html` in your browser
 
 ---
 
-## 🌐 Live Demo
+## Live Demo
 
-Or you can check out the 👉 [live website here](https://availability-table-fcc-jiro.netlify.app/)
+Or you can check out the **[live website here](https://availability-table-fcc-jiro.netlify.app/)**
 
 ---
 
-## 🧑‍💻 Author
+## Author
 
 Created by **Elmar Chavez**
 
-🗓️ Month/Year: **May 2025**
+Month/Year: **May 2025**
 
-📚 Journey: **2<sup>nd</sup>** month of learning _frontend web development_.
+Journey: **2<sup>nd</sup>** month of learning _frontend web development_.
